@@ -1,3 +1,7 @@
+nftMarket deployed to: 0xd4411e4cEF3383393e0A6F7F1b0640b8111B5674
+nft deployed to: 0xf8f757e4b9ab9CCb9Db0D76388f6C2fA22B92739
+
+
 #### Local setup
 
 To run this project locally, follow these steps.
